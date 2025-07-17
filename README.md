@@ -271,10 +271,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-**Desenvolvedor**: David Damasceno
-**Email**: davidddf.frota@gmail.com  
-**LinkedIn**:www.linkedin.com/in/damascenodf
-**GitHub**: github.com/Davidamascen07
+**Desenvolvedor**: [Seu Nome]  
+**Email**: seu.email@exemplo.com  
+**LinkedIn**: [damascenodf](https://www.linkedin.com/in/damascenodf)  
+**GitHub**: [[Davidamascen07](https://github.com/Davidamascen07)]
 
 ---
 
