@@ -9,6 +9,8 @@
 
 Este projeto demonstra as competências técnicas exigidas para desenvolvimento de soluções de e-commerce integradas, incluindo Laravel, WooCommerce, APIs RESTful, arquitetura limpa e boas práticas de desenvolvimento.
 
+![phpadm2](public/img/phpadm2.gif)
+
 ## 🎯 Objetivo do Projeto
 
 Demonstrar experiência prática com:
