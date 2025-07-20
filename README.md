@@ -1,15 +1,13 @@
-# 🛍️ E-commerce Laravel + WooCommerce Integration
+# 🛒 Projeto E-Commerce Laravel + WooCommerce
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-blue?style=flat-square&logo=php)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-API-purple?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-PHPUnit%2FPest-green?style=flat-square)
 
-# 🛒 Projeto E-Commerce Laravel + WooCommerce
-
 Este projeto full stack demonstra minha capacidade de entregar soluções profissionais de e-commerce com integração completa ao WooCommerce via APIs RESTful, seguindo padrões de arquitetura limpa, boas práticas de desenvolvimento e foco em performance, segurança e escalabilidade.
 
-![phpadm2](public/img/phpadm2.gif)
+![laravel-woocommerce-ecommerce-fullstack](public/img/phpadm2.gif)
 
 ## 🎯 Objetivo do Projeto
 
