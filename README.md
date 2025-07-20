@@ -5,9 +5,9 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-API-purple?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-PHPUnit%2FPest-green?style=flat-square)
 
-> **Projeto demonstrativo** para vaga de **Desenvolvedor Full Stack PHP/Laravel + WordPress/WooCommerce**
+# 🛒 Projeto E-Commerce Laravel + WooCommerce
 
-Este projeto demonstra as competências técnicas exigidas para desenvolvimento de soluções de e-commerce integradas, incluindo Laravel, WooCommerce, APIs RESTful, arquitetura limpa e boas práticas de desenvolvimento.
+Este projeto full stack demonstra minha capacidade de entregar soluções profissionais de e-commerce com integração completa ao WooCommerce via APIs RESTful, seguindo padrões de arquitetura limpa, boas práticas de desenvolvimento e foco em performance, segurança e escalabilidade.
 
 ![phpadm2](public/img/phpadm2.gif)
 
@@ -270,9 +270,7 @@ Este projeto foi desenvolvido como demonstração técnica. Para sugestões ou m
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📞 Contato
-
-**Desenvolvedor**: David Damasceno  
-**WhatsApp**: +55 88 9 9755-7530  
+ 
 **Email**: davidddf.frota@gmail.com  
 **LinkedIn**: [damascenodf](https://www.linkedin.com/in/damascenodf)  
 **GitHub**: [[Davidamascen07](https://github.com/Davidamascen07)]
